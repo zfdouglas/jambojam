@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+# artifacts
+/public/
+
 # testing
 /coverage
 
@@ -37,3 +40,4 @@ next-env.d.ts
 
 #ide settings
 /.vscode
+
